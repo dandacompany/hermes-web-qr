@@ -1,0 +1,8 @@
+name: hermes-web-qr
+version: 0.2.0
+description: Remote access setup wizard and mobile QR for Hermes Desktop.
+author: Dante Labs
+requires_hermes: '>=0.23.0'
+provides_tools: []
+provides_hooks: []
+provides_middleware: []
